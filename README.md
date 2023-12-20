@@ -5,7 +5,7 @@ https://aleksikistauri.medium.com/bypassing-httponly-with-phpinfo-file-4e5a8b171
 
 As you can see, the payload works correctly but it can be improved to send only the cookies and not all the HTML code that comes after it. That's why I decided to design this script and write this post on my blog
 
-https://hackcommander.github.io/pentesting-article-1/
+[https://hackcommander.github.io/pentesting-article-1/](https://hackcommander.github.io/posts/2022/11/12/bypass-httponly-via-php-info-page/)
 
 to try to explain this bypass in depth, adding some additional considerations.
 
